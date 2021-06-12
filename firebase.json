@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "dist/ev02",
+    "site": "citas-v02",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
